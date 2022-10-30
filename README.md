@@ -10,3 +10,5 @@ shell &amp; Linux C
 **第三节课回放地址：https://meeting.tencent.com/v2/cloud-record/share?id=67a0d30b-31d3-44f1-add4-00573a5c26fe&from=3**
 
 **第四节课回放地址：https://meeting.tencent.com/v2/cloud-record/share?id=9aef4815-e45b-47ce-832f-5f6c81ed380f&from=3**
+
+**第五节课回放地址：https://meeting.tencent.com/v2/cloud-record/share?id=8f120f4a-d9e6-4c7c-9e63-7128657f0fc9&from=3**
