@@ -8,7 +8,7 @@ int main()
 {
 	int fd;
 
-	fd = open("./file2", O_RDWR | O_CREAT, 0666);
+	fd = open("./file2", O_RDWR | O_CREAT);
 	if (fd == -1)
 	{
 		printf("open failed\n");
